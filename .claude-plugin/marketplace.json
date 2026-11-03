@@ -1,0 +1,18 @@
+{
+  "name": "dactic-marketplace",
+  "owner": {
+    "name": "Dactic",
+    "url": "https://dactic.io"
+  },
+  "plugins": [
+    {
+      "name": "dactic",
+      "source": "./",
+      "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
+      "version": "0.1.0"
+    }
+  ],
+  "metadata": {
+    "description": "Dactic hosted MCP integration and work-context skill."
+  }
+}

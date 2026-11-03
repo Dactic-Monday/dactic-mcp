@@ -1,0 +1,16 @@
+{
+  "identifier": "dactic-monday-dactic-mcp",
+  "name": "Dactic",
+  "version": "0.1.0",
+  "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
+  "author": "Dactic",
+  "authorUrl": "https://dactic.io",
+  "homepage": "https://github.com/Dactic-Monday/dactic-v1-mcp-public",
+  "cloudEndpoint": "https://mcp.app.dactic.io/mcp",
+  "category": "productivity",
+  "tags": [
+    "dactic",
+    "context",
+    "mcp"
+  ]
+}

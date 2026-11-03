@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dactic": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@dactic/mcp-server@0.1.0"
+      ]
+    }
+  }
+}
