@@ -1,0 +1,11 @@
+node_modules/
+coverage/
+*.tgz
+.env
+.env.*
+.mcp-auth/
+*.pem
+*.key
+.DS_Store
+.codex/
+AGENTS.md

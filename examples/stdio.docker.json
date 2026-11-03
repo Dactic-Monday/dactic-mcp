@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "dactic": {
+      "command": "docker",
+      "args": [
+        "run",
+        "--rm",
+        "-i",
+        "-e",
+        "DACTIC_MCP_TOKEN",
+        "dactic-mcp:local"
+      ]
+    }
+  }
+}

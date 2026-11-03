@@ -1,0 +1,10 @@
+The MIT license covers the public integration source and documentation.
+Dactic names and logos remain trademarks of their respective owner; no
+trademark rights are granted. The hosted Dactic service and its backend
+implementation are outside this source distribution.
+
+The bridge uses mcp-remote (MIT): https://github.com/punkpeye/mcp-remote
+Its npm distribution includes its own license and bundled dependency notices.
+
+The schema snapshots retain their canonical $id/$schema references. They are
+used as validation data; see schemas/README.md for provenance.

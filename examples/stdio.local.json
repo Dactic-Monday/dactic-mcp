@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "dactic": {
+      "command": "node",
+      "args": [
+        "/absolute/path/to/dactic-v1-mcp-public/src/cli.js"
+      ]
+    }
+  }
+}

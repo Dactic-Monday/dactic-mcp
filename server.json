@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.dactic/dactic-mcp",
+  "title": "Dactic",
+  "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/Dactic-Monday/dactic-v1-mcp-public",
+    "source": "github"
+  },
+  "websiteUrl": "https://dactic.io",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.app.dactic.io/mcp"
+    }
+  ]
+}
