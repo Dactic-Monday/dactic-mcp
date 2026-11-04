@@ -1,6 +1,6 @@
 {
   "name": "@dactic/mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
   "type": "module",
   "license": "MIT",
@@ -19,11 +19,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dactic-Monday/dactic-v1-mcp-public.git"
+    "url": "https://github.com/Dactic-Monday/dactic-mcp.git"
   },
-  "homepage": "https://github.com/Dactic-Monday/dactic-v1-mcp-public",
+  "homepage": "https://github.com/Dactic-Monday/dactic-mcp",
   "bugs": {
-    "url": "https://github.com/Dactic-Monday/dactic-v1-mcp-public/issues"
+    "url": "https://github.com/Dactic-Monday/dactic-mcp/issues"
   },
   "keywords": [
     "mcp",

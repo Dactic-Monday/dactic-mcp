@@ -17,7 +17,7 @@ for (const [file, name, modern] of [['server.json','registry',false],
 const pkg = json('package.json');
 const portable = json('plugin.json');
 const endpoint = 'https://mcp.app.dactic.io/mcp';
-const repository = 'https://github.com/Dactic-Monday/dactic-v1-mcp-public';
+const repository = 'https://github.com/Dactic-Monday/dactic-mcp';
 for (const file of ['.cursor-plugin/plugin.json','.claude-plugin/plugin.json','plugin.json']) {
   const p = json(file);
   assert.equal(p.version, pkg.version, `${file} version drift`);

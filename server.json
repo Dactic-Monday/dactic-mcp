@@ -3,7 +3,7 @@
   "name": "io.dactic/dactic-mcp",
   "title": "Dactic",
   "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "url": "https://github.com/Dactic-Monday/dactic-mcp",
     "source": "github"
