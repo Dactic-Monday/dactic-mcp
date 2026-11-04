@@ -1,6 +1,6 @@
 {
   "name": "@dactic/mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connect AI clients to your Dactic work context through a hosted MCP service.",
   "type": "module",
   "license": "MIT",
